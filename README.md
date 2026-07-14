@@ -5,7 +5,6 @@ My native AI engineering learning journey — notes, prompts, and a backlog of p
 ## Notes
 
 - [lessons.md](lessons.md) — things learned along the way
-- [projects-backlog.md](projects-backlog.md) — ideas and planned work
 - [prompts.md](prompts.md) — useful prompts and patterns
 
 ## Planned projects
